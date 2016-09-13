@@ -1,0 +1,32 @@
+Server Build Log or S.B.L
+
+This is a Log of my Server Rack.
+It will include Dates,Prices & Server Information.
+
+This is for PRIVATE USE ONLY.
+
+
+05-01-2016 Begin Server Planing/Ser
+
+05-25-2016 Bought: $85
+ x2 Dell 2850 (two 3.66Ghz & 4GB RAM)
+ x1 Dell 4600 (two 2Ghz & ?6GB RAM?)
+ x1 Cisco 2950 12-port switch
+
+06-28-2016 Bought: $30
+ x2 DELL Maxtor 147GB 10K SCSI HDD  w/ bracket 
+
+07-15-2016 Bought: $3.25
+ 30ft Cat5 cable
+
+08-20-2016 Bought: $18
+ 16GB DDR2-PC3200 DUAL RAN
+08-29-2016 Bought: $80
+ HP 40u Server Rack (old 3PAR rack)
+
+09-07-2016 Bought: $42
+x3 Fujitsu 147GB 10K SCSI HDD
+09-07-2016 Bought: $21
+ 4 Port USB KVM VGA Switch /w Cables
+ 
+ 
