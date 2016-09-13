@@ -6,12 +6,15 @@ It will include Dates,Prices & Server Information.
 This is for PRIVATE USE ONLY.
 
 
-05-01-2016 Begin Server Planing/Ser
+05-01-2016 Begin Server Planing/Searching
 
 05-25-2016 Bought: $85
  x2 Dell 2850 (two 3.66Ghz & 4GB RAM)
  x1 Dell 4600 (two 2Ghz & ?6GB RAM?)
  x1 Cisco 2950 12-port switch
+
+06-13-2016 Bought: $2
+ Tripp Lite 4ft Cat5e RJ45 snagless
 
 06-28-2016 Bought: $30
  x2 DELL Maxtor 147GB 10K SCSI HDD  w/ bracket 
