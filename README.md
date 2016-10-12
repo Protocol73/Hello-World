@@ -11,6 +11,18 @@ Accounts
 
 DevianArt: http://mlaw4321.deviantart.com/ 
 
+CJDNS:https://pad.meshwith.me/p/public
+See https://github.com/hyperboria/cjdns#community for More Info.
+//US,Iowa
+"p73-cjdns.ddns.net:3337": {
+    "login": "public",
+    "password":"/r/homelab",
+    "publicKey":"jtwjdp735ky0zptp730fqbqnvr6nj7388mb4y5hex3337jkts6b0.k",
+    "peerName":"Protocol73-cjdns-Iowa"
+    "Run by: https://github.com/Protocol73"
+    "location":Dubuque,Iowa"
+},
+
  
  For Those of you you who are on a mac look forward to more stuff posted here.
  & for all you windows ppl ... I'll see what I can cook up (someday) :-) 
