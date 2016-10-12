@@ -12,7 +12,7 @@ Accounts
 DevianArt: http://mlaw4321.deviantart.com/ 
 
 CJDNS:https://pad.meshwith.me/p/public
-See https://github.com/hyperboria/cjdns#community for More Info.
+See https://github.com/hyperboria/cjdns#community for More Info. ----
 //US,Iowa
 "p73-cjdns.ddns.net:3337": {
     "login": "public",
