@@ -2,7 +2,7 @@
 Updates &amp; Info
 
 Hello there,
-Just a 20yr old self taught/still learning programer,data center tech & cryptocurrency enthusiast.
+Just a 21yr old self taught/still learning programer,data center tech & cryptocurrency enthusiast.
  
 Accounts:
 
